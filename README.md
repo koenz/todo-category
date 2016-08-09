@@ -13,5 +13,3 @@ You can see this app live at https://frost-mustang.hyperdev.space
 
 Good luck!
 Mike
-# todo-category
-# todo-category
